@@ -1,2 +1,2 @@
 # PCA_word_classifier
-Demo usage of Primary Component Analysis to visualize separation and classify words. 
+Demo usage of Primary Component Analysis to visualize data separation and classify words. 
